@@ -1,16 +1,19 @@
-# 🌐 Zion App Network — Interlinks
+# cloud-cost-estimator — Zion App Network
 
-**cloud-cost-estimator** is part of the Zion Tech Group app network (630+ apps).
+Cloud Cost Estimator — multi-cloud compute & serverless price comparison.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Cost, FinOps & Cloud](https://github.com/Zion-support/zion-network/blob/main/network/cost-finops-cloud.md)
+- Live app: https://ziontechgroup.com/cloud-cost-estimator/
+- Homepage: https://ziontechgroup.com
+- Network hub: https://zion-support.github.io/zion-network/
+- Master index: https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md
 
-## Related apps
-- [cloud-migration-calculator](https://github.com/Zion-support/cloud-migration-calculator) — Cloud migration TCO calculator
-- [zion-ai-cloud-cost-navigator](https://github.com/Zion-support/zion-ai-cloud-cost-navigator) — Cloud scenario comparison
-- [ai-cloud-optimizer](https://github.com/Zion-support/ai-cloud-optimizer) — Cloud cost optimization
-- [finops-autopilot](https://github.com/Zion-support/finops-autopilot) — Cost anomaly detection & rightsizing
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+## Related apps (FinOps & Sustainability)
+- [finops-autopilot](https://ziontechgroup.com/finops-autopilot/) — cost anomaly detection & right-sizing
+- [cloud-migration-calculator](https://ziontechgroup.com/cloud-migration-calculator/) — on-prem vs cloud TCO
+- [zion-ai-finops-radar](https://ziontechgroup.com/zion-ai-finops-radar) — streaming billing anomalies
+- [green-cloud-picker](https://ziontechgroup.com/green-cloud-picker/) — carbon-aware region advisor
+- [ai-model-cost-calculator](https://github.com/Zion-support/ai-model-cost-calculator) — AI model pricing comparator
+- [zion-sla-cost-calculator](https://ziontechgroup.com/zion-sla-cost-calculator/) — SLA cost calculator
 
 ---
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+Part of the [Zion Tech Group apps network](https://zion-support.github.io/zion-network/) — 280+ interlinked AI, IT and FinOps tools.
